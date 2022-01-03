@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "245413134008",
+    "firebase_url": "https://rishtedaariyan.firebaseio.com",
+    "project_id": "rishtedaariyan",
+    "storage_bucket": "rishtedaariyan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245413134008:android:d34852fc834a6183c4fe4d",
+        "android_client_info": {
+          "package_name": "techsk.solutions.mny_champ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245413134008-c9gvo60e6k699fajc8fdsci9l5gn1601.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techsk.solutions.mny_champ",
+            "certificate_hash": "1ad71305366b72d04321d6096bc949642600a085"
+          }
+        },
+        {
+          "client_id": "245413134008-rfg2sjfrk3lmlueccu4k9pl4f2f7r9sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techsk.solutions.mny_champ",
+            "certificate_hash": "f9d3e22536f37306a65de75e2a0dee4837236080"
+          }
+        },
+        {
+          "client_id": "245413134008-9aeg0del9jsfrsco5deqojsbemd34817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9MxnR4w64EI8ehtAjEI6F4XfcsokHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245413134008-9aeg0del9jsfrsco5deqojsbemd34817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
